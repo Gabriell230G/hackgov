@@ -225,13 +225,13 @@ Enterprise Challenge em parceria com a **EGESP**, com foco em soluções GovTech
 
 ## 🔗 Deploy
 
-➡️ https://gabriell230g.github.io/protegePlus/
+➡️ https://gabriell230g.github.io/hackgov/
 
 ---
 
 ## 💻 Repositório
 
-➡️ https://github.com/Gabriell230G/protege-plus-hackgov
+➡️ https://github.com/Gabriell230G/hackgov
 
 ---
 
